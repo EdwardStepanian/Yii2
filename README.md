@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Yii 2 Basic Project Template
 ============================
 
@@ -100,3 +101,7 @@ return [
 - Yii won't create the database for you, this has to be done manually before you can access it.
 - Check and edit the other files in the `config/` directory to customize your application as required.
 - Refer to the README in the `tests` directory for information specific to basic application tests.
+=======
+# Yii2
+testing tii2 $ codecept
+>>>>>>> 5559d8dfac0afff59d31ec7efa3cb0ec2a944efb
