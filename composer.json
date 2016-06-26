@@ -1,0 +1,6 @@
+{
+    "name": "ed/test",
+    "require": {
+        "codeception/codeception": "^2.2"
+    }
+}
